@@ -1,0 +1,24 @@
+# Exported from Figuro at https://www.figuro.io
+
+mtllib newscene.mtl
+g cube30
+v -128 -128 128
+v 128 -128 128
+v 128 128 128
+v -128 128 128
+v 128 -128 -128
+v 128 128 -128
+v -127.99999999999997 -128 -128
+v -127.99999999999997 128 -128
+v 0 0 0
+# 9 vertices
+
+f 1 9 
+f 2 9 
+f 3 9 
+f 4 9 
+f 5 9 
+f 6 9
+f 7 9
+f 8 9
+# 8 polygons

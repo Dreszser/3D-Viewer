@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>view/shaders/line_fragment_shader.fsh</file>
+        <file>view/shaders/line_geometry_shader.gsh</file>
+        <file>view/shaders/line_vertex_shader.vsh</file>
+        <file>view/shaders/point_fragment_shader.fsh</file>
+        <file>view/shaders/point_vertex_shader.vsh</file>
+    </qresource>
+</RCC>
